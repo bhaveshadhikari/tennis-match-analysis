@@ -122,3 +122,10 @@ Saves the result to `output/video_analyzed.mp4`.
 | `output/graphs/shot_frequency.png` | Shot type distribution bar chart |
 | `notebooks\player_racket_ball_detection.ipynb` | Colab Notebook to get detection CV for large videos|
 
+## Output Link
+Short Sample :
+<video controls src="https://github.com/bhaveshadhikari/tennis-match-analysis/blob/main/output/video_analyzed.mp4" title="input\input.mp4"></video>
+
+Full Length : https://youtu.be/8-rpe6ig7ug
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8-rpe6ig7ug?si=hvrEW9Z8mw9l8f4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

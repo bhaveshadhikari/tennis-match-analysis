@@ -9,8 +9,8 @@ This folder contains the results from processing a full 5-minute tennis video.
 - Processed output can be viewed at the link below.
 
 ## Output Link
-
-<insert output link here>
+The full video can be viewed at: 
+https://youtu.be/8-rpe6ig7ug
 
 ## Files
 
