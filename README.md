@@ -128,6 +128,4 @@ Saves the result to `output/video_analyzed.mp4`.
 Short Sample :
 <video controls src="https://github.com/bhaveshadhikari/tennis-match-analysis/blob/main/output/video_analyzed.mp4" title="input\input.mp4"></video>
 
-Full Length : https://youtu.be/8-rpe6ig7ug
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8-rpe6ig7ug?si=hvrEW9Z8mw9l8f4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Full Length : https://youtu.be/8-rpe6ig7ug (5 minutes+)
