@@ -51,6 +51,7 @@ pip install pandas numpy scipy matplotlib opencv-python ultralytics
 
 ## Usage
 
+### It is important to that the detection is performed on google colab(the `.ipynb` can be found at notebook folder) and the results are downloaded and thus placed in `input/`.
 1. Place your input files in `input/`.
 2. Adjust parameters in `main.py` if needed.
 3. Run:
