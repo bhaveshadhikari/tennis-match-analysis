@@ -10,6 +10,8 @@ Detection and tracking (YOLO + ByteTrack) run separately in Colab and produce th
 ## Folder Structure
 
 ```
+full-analysis/
+    # contains all the files that is required to perform the analysis in long length video
 notebooks/
     player_racket_ball_detection.ipynb
 
