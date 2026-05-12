@@ -125,7 +125,8 @@ Saves the result to `output/video_analyzed.mp4`.
 | `notebooks\player_racket_ball_detection.ipynb` | Colab Notebook to get detection CV for large videos|
 
 ## Output Link
-Short Sample :
+Short Sample : https://github.com/bhaveshadhikari/tennis-match-analysis/blob/main/output/video_analyzed.mp4
+
 <video controls src="https://github.com/bhaveshadhikari/tennis-match-analysis/blob/main/output/video_analyzed.mp4" title="input\input.mp4"></video>
 
 Full Length : https://youtu.be/8-rpe6ig7ug (5 minutes+)
